@@ -12,5 +12,5 @@ Here's what it did:
 
 To run:
 
-1. Put your audio file in "analysis/<id of your choice>/diarize_worker-0.0.2/audio.wav"
-2. Run "make analysis/<id of your choice>/diarize_worker-0.0.2/results.json".
+1. Put your audio file in "analysis/(id of your choice)/diarize_worker-0.0.2/audio.wav"
+2. Run "make analysis/(id of your choice)/diarize_worker-0.0.2/results.json".
