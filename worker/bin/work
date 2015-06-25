@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+$: << File.join(File.dirname(__FILE__), "../lib")
+
+require 'rubygems'
+require 'bundler/setup'
+
+require 'worker'
+
+DiarizeWorker::Worker.work

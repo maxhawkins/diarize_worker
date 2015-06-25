@@ -1,0 +1,5 @@
+.DS_Store
+worker/vendor
+worker/.bundle
+analysis
+worker.zip
